@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MountainView/static/css/main.39c25c12.css",
+    "main.js": "/MountainView/static/js/main.867f263e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/MountainView/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/MountainView/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MountainView/index.html",
+    "main.39c25c12.css.map": "/MountainView/static/css/main.39c25c12.css.map",
+    "main.867f263e.js.map": "/MountainView/static/js/main.867f263e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/MountainView/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39c25c12.css",
+    "static/js/main.867f263e.js"
+  ]
+}
